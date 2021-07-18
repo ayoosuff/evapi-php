@@ -1,5 +1,5 @@
 {
-    "name": "exavault/evapi-php",
+    "name": "ayoosuff/evapi-php",
     "type": "library",
     "description": "PHP SDK for ExaVault API",
     "keywords": ["exavault","file transfer","php"],
